@@ -24,14 +24,14 @@
 ╔══════════════════════════════════════╗
 ║          HUNTER INFORMATION          ║
 ╠══════════════════════════════════════╣
-║ NAME      : Rami                     ║
+║ NAME      : Ramy Man                 ║
 ║ ALIAS     : Rami-netizen-bot         ║
 ║ RANK      : S-CLASS DEVELOPER        ║
-║ LEVEL     : [your level / year]      ║
-║ GUILD     : [school / company]       ║
-║ CLASS     : Full-Stack Creator       ║
-║ SPECIALTY : Web, CMS & UI/UX Design  ║
-║ LANGUAGES : English / ខ្មែរ           ║
+║ LEVEL     : CS Student               ║
+║ GUILD     : Chenla University        ║
+║ CLASS     : Full-Stack & Mobile      ║
+║ SPECIALTY : Flutter, Vue.js, Laravel ║
+║ LANGUAGES : English / ខ្មែរ            ║
 ║ LOCATION  : Cambodia                 ║
 ║ STATUS    : ● READY FOR RAID         ║
 ╚══════════════════════════════════════╝
