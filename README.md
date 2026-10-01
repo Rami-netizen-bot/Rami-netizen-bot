@@ -65,9 +65,9 @@
 
 | 🏰 Dungeon | 📜 Quest | 🔥 Status |
 |---|---|---|
-| [Project 1](https://github.com/Rami-netizen-bot) | CMS / University website | `CLEARED` |
+| [Project 1](https://github.com/Rami-netizen-bot) | Firebase Cloud Messaging Mobile App | `CLEARED` |
 | [Project 2](https://github.com/Rami-netizen-bot) | Enrollment system | `IN PROGRESS` |
-| [Project 3](https://github.com/Rami-netizen-bot) | Management web app | `IN PROGRESS` |
+| [Project 3](https://github.com/Rami-netizen-bot) | E-commerce Flutter & FastAPI backend | `IN PROGRESS` |
 
 > Replace the links and names with your real repos.
 
