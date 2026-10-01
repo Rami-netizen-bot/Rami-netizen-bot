@@ -41,7 +41,7 @@
 <td width="45%" align="center">
 
 <!-- Replace with your own image: upload to the repo and use ./hunter.jpg -->
-<img src="https://placehold.co/400x250/0f0c29/8b5cf6?text=YOUR+HUNTER+ART" width="100%" alt="Hunter art"/>
+<img src="https://i.blogs.es/8ad4c0/solo-leveling-1/500_333.webp" width="100%" alt="Hunter art"/>
 
 </td>
 </tr>
