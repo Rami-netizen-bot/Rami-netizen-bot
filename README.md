@@ -8,7 +8,7 @@
 ![Role](https://img.shields.io/badge/FULLSTACK-DEVELOPER-3b82f6?style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-READY_FOR_RAID-22c55e?style=for-the-badge)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Arise.;Building+websites+%26+systems;English+%2B+Khmer+(ខ្មែរ)+ready" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Arise.;Building+Mobile+%26+Web+Systems;English+and+Khmer+Ready" alt="Typing SVG" />
 
 </div>
 
